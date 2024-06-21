@@ -1,0 +1,16 @@
+
+
+.appContainer {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .lightTheme {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .darkTheme {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
